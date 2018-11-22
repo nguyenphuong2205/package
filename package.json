@@ -1,0 +1,23 @@
+{
+  "name": "nguyenphuong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenphuong2205/package.git"
+  },
+  "author": "phuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenphuong2205/package/issues"
+  },
+  "homepage": "https://github.com/nguyenphuong2205/package#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "wipe-node-cache": "^2.1.0"
+  }
+}

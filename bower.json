@@ -1,0 +1,20 @@
+{
+  "name": "nguyenphuong",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "phuong"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nguyenphuong2205/package",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.5.0"
+  }
+}
